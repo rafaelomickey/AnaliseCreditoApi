@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D5C6B008-406F-4DFA-BE55-43F2A1A282C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnaliseCreditoApi", "AnaliseCreditoApi\AnaliseCreditoApi.csproj", "{98EDD268-15AD-4A41-A355-28F4811D78DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98EDD268-15AD-4A41-A355-28F4811D78DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EDD268-15AD-4A41-A355-28F4811D78DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EDD268-15AD-4A41-A355-28F4811D78DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EDD268-15AD-4A41-A355-28F4811D78DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{98EDD268-15AD-4A41-A355-28F4811D78DE} = {D5C6B008-406F-4DFA-BE55-43F2A1A282C1}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EABB3F8-79AD-43A5-AE01-FFA90DC02114}
+	EndGlobalSection
+EndGlobal
